@@ -1,0 +1,10 @@
+.neo_button_transparent{
+
+background-image:linear-gradient(rgba(229,229,229,0.1),rgba(229,229,229,0.9));
+height:50px;
+width:100px;
+/*border-radius:20px;*/
+
+
+}
+
